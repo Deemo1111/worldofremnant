@@ -6,3 +6,8 @@ longform:
   scenes: []
   ignoredFiles: []
 ---
+---
+title: NPC List
+description: Daftar karakter
+order: 2
+---
