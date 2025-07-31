@@ -6,8 +6,3 @@ longform:
   scenes: []
   ignoredFiles: []
 ---
----
-title: World of Remnant
-description: Lore Dunia
-order: 1
----
