@@ -1,1 +1,0 @@
-ini tes gak sih
