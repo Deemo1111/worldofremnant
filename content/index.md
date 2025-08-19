@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: The World of Remnant
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Ini adalah halaman homepage dari World of Remnant
