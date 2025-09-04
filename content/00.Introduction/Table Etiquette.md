@@ -12,7 +12,7 @@
 > 	Pahami setiap kemampuan, fitur kelas, feats,source yang kalian gunakan dan spell milik karakter kalian. Ketahui cara dan waktu terbaik menggunakannya, sehingga setiap aksi terasa alami dan cerita bergerak tanpa hambatan. Pemahaman ini bukan hanya memperlancar permainan, tapi juga membuat peranmu benar-benar hidup di meja.
 ###### 7. Hargai keputusan DM
 > 	Segala perselisihan, perbedaan pendapat dan argumentasi yang terjadi di meja hasil akhirnya akan ditentukan oleh DM. Rule Book Policing boleh dilakukan namun DM masih akan mengkaji hal tersebut lebih lanjut untuk penentu keputusan.
-###### 8. Jaga Pemisahan Pengetahuan Karakter & Pemain
+###### 8. Bedakan Pengetahuan Karakter & Pemain
 > 	Sampaikan rencana tindakan atau informasi yang karakter Anda ketahui kepada DM sebelum bertindak. Ingat, pengetahuan pemain tidak selalu sama dengan pengetahuan karakter. Hindari metagaming, lakukan skill check hanya di bawah arahan DM, dan pastikan setiap aksi tetap dalam kendali narasi bersama.
 ###### 9. Everyone can make a mistake
 > 	Baik DM maupun pemain bisa saja keliru. Di akhir sesi, akan ada waktu untuk saling memberi masukan dan evaluasi. Sampaikan pendapat dengan sopan, fokus pada perbaikan, dan hindari nada menyerang. Tujuannya adalah membangun permainan yang lebih baik, bukan saling menyalahkan.
