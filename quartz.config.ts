@@ -12,6 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
+    favicon: "./static/favicon.png",
     analytics: {
       provider: "plausible",
     },
