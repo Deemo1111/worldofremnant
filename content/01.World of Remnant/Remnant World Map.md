@@ -14,7 +14,7 @@ mapCalc1: 0
 > How Many Units in Scale: `INPUT[number:scale_pixels_range]`  
 > Scale: `VIEW[1/({scale_pixels}/{scale_pixels_range})][math:mapCalc1]`
 
-
+# Peta Benua
 
 ```leaflet  
 id: World Map ### Must be unique with no spaces  
